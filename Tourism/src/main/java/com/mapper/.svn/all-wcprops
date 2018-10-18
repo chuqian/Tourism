@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/mapper
+END
+AdminMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/AdminMapper.java
+END
+CommentMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/First/!svn/ver/12/Tourism/src/main/java/com/mapper/CommentMapper.java
+END
+CityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/CityMapper.java
+END
+UserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/UserMapper.java
+END
+CollectMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/First/!svn/ver/7/Tourism/src/main/java/com/mapper/CollectMapper.java
+END
+RoleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/RoleMapper.java
+END
+RegionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/RegionMapper.java
+END
+ScenicMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/mapper/ScenicMapper.java
+END
+BuyticketMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/mapper/BuyticketMapper.java
+END
+BaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/BaseMapper.java
+END
+ProvinceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/mapper/ProvinceMapper.java
+END

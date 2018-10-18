@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/First/!svn/ver/11/Tourism/src/main/resources
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/First/!svn/ver/2/Tourism/src/main/resources/mybatis-config.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/First/!svn/ver/2/Tourism/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/First/!svn/ver/2/Tourism/src/main/resources/applicationContext.xml
+END
+springmvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/2/Tourism/src/main/resources/springmvc-servlet.xml
+END

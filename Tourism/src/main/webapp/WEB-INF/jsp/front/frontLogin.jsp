@@ -1,0 +1,89 @@
+<%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
+<%
+	String path = request.getContextPath();
+	String basePath = request.getScheme() + "://" + request.getServerName() + ":" + 
+					  request.getServerPort() + path + "/";
+%>
+<!DOCTYPE HTML>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>login</title>
+<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<!--必要样式-->
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+
+</head>
+<body>
+	<div class="container demo-1">
+		<div class="content">
+			<div id="large-header" class="large-header">
+				<canvas id="demo-canvas"></canvas>
+				<div class="logo_box">
+					<!-- <p id="p01" style="font-size: 30px; font-family:'微软雅黑';margin-left: 30px">后台管理</p> -->
+					<form id="login-form" action="front/login.action" method="post">
+						<div class="input_outer">
+							<span class="u_user"></span> 
+							<input id="login-username" name="username" class="text"	style="color: #FFFFFF !important; font-size:20px; "
+								   type="text" placeholder="请输入用户名称">
+						</div>
+						<div class="input_outer">
+							<span class="us_uer"></span>
+							 <input id="login-password" name="password" class="text"
+								    style="color: #FFFFFF !important; font-size:20px; position:absolute; z-index:100;"
+									value="" type="password" placeholder="请输入密码">
+						</div>
+						<div class="" style="font-size: 20px;">
+							<span style="margin-right: 15px;">身份选择:</span>
+							<input type="radio" name="userIdentity" value="用户" onclick="userSelect()" checked="checked">用户&nbsp;&nbsp;
+							<input type="radio" name="userIdentity" value="游客" onclick="visitorSelect()">游客
+						</div>
+						<div class="mb2">
+							<button id="login-login" class="act-but submit" onclick=""
+									style="color: #FFFFFF; width: 80px; height: 50px; display: inline; margin-left: 50px;" >登录</button>
+							<a class="act-but submit" href="front/toRegister.action" 
+									style="color: #FFFFFF; width: 162px; height: 50px; display: inline; margin-left: 80px;" >注册</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="text-align:center;">
+		<script type="text/javascript" src="common/jquery.min.js"></script>
+		<script type="text/javascript" src="common/easyui/jquery.min.js"></script>
+		<!-- /container -->
+		<script src="js/login/TweenLite.min.js"></script>
+		<script src="js/login/EasePack.min.js"></script>
+		<script src="js/login/rAF.js"></script>
+		<script src="js/login/demo-1.js"></script>
+		<script type="text/javascript">
+		/* var login = function(){
+			$.ajax({
+				url: "operate/login.action",
+				type: "POST",
+				data: $("form").serialize(),
+				success: function(msg){
+					$("#login-form").attr("action", "operate/login.action");
+				}
+			})
+		}; */
+		var register = function(){
+		};
+		var userSelect = function(){
+			$("#login-username").attr("disabled", false);
+			$("#login-password").attr("disabled", false);
+		};
+		var visitorSelect = function(){
+			
+			$("#login-username").attr("disabled", true);
+			$("#login-username").css("color", "#FF0000");
+			$("#login-password").attr("disabled", true);
+		};
+		</script>		
+	</div>
+</body>
+</html>

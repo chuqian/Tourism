@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/admin/service/impl
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/admin/service/impl/UserServiceImpl.java
+END
+CommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/First/!svn/ver/12/Tourism/src/main/java/com/admin/service/impl/CommentServiceImpl.java
+END
+LonginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/admin/service/impl/LonginServiceImpl.java
+END
+ScenicServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/admin/service/impl/ScenicServiceImpl.java
+END

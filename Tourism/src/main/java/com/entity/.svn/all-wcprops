@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/entity
+END
+Province.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/Province.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/Admin.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/entity/Comment.java
+END
+UserCommSce.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/First/!svn/ver/12/Tourism/src/main/java/com/entity/UserCommSce.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/City.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/First/!svn/ver/6/Tourism/src/main/java/com/entity/User.java
+END
+Collect.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/First/!svn/ver/6/Tourism/src/main/java/com/entity/Collect.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/Role.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/Region.java
+END
+BaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/9/Tourism/src/main/java/com/entity/BaseEntity.java
+END
+Pager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/Pager.java
+END
+Scenic.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/entity/Scenic.java
+END
+PageQueryVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/First/!svn/ver/2/Tourism/src/main/java/com/entity/PageQueryVo.java
+END
+Buyticket.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/First/!svn/ver/11/Tourism/src/main/java/com/entity/Buyticket.java
+END
